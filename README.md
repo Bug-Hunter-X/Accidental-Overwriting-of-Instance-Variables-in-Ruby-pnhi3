@@ -1,0 +1,3 @@
+This repository demonstrates a subtle bug in Ruby that can arise from inadvertently using an instance variable and method name. The bug arises when you have a method that has the same name as an instance variable, the instance variable might be unintentionally overwritten. 
+
+The code provides a minimal example that showcases this issue. It presents a solution that helps explain how to avoid such errors and how to make the code more robust.
